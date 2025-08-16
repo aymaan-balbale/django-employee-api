@@ -54,10 +54,9 @@ A complete Django application providing a REST API for managing employees, depar
     ```bash
     python manage.py runserver
     ```
-
 2.  **Access Key URLs:**
-    - **Admin Panel:** `http://127.0.0.1:8000/admin/`
-    - **Swagger UI:** `http://127.0.0.1:8000/swagger/`
+    - **Admin Panel:** `http://127.0.0.1:8000/admin/`     super-user = aymaan / password = aymaan
+    - **Swagger UI:** `http://127.0.0.1:8000/swagger/`   user =  hr_user / password =  aymaan987
     - **Analytics Chart:** `http://127.0.0.1:8000/api/analytics/`
 =======
 # django-employee-api
