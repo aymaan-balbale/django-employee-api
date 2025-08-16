@@ -1,3 +1,4 @@
+
 # Employee Management System API
 
 ## Overview
@@ -58,3 +59,6 @@ A complete Django application providing a REST API for managing employees, depar
     - **Admin Panel:** `http://127.0.0.1:8000/admin/`
     - **Swagger UI:** `http://127.0.0.1:8000/swagger/`
     - **Analytics Chart:** `http://127.0.0.1:8000/api/analytics/`
+=======
+# django-employee-api
+
